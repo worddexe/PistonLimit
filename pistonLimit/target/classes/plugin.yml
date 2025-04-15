@@ -1,9 +1,0 @@
-name: PistonLimit
-version: 1.0
-main: me.worddexe.pistonLimit.PistonLimit
-api-version: "1.21"
-author: worddexe
-permissions:
-  pistonlimit.bypass:
-    description: Allows bypassing piston limits.
-    default: op
