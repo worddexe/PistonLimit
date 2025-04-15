@@ -1,0 +1,7 @@
+# Piston configuration
+piston-limit: 10 # Set to 0 to disable
+piston-radius: 4 # Number of chunks of which the piston limit applies
+
+# Sticky piston configuration
+sticky-piston-limit: 10 # Set to 0 to disable
+sticky-piston-radius: 4 # Number of chunks of which the piston limit applies
